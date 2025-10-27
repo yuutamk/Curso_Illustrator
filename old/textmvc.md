@@ -1,0 +1,32 @@
+- proyecto/
+  - public/
+    - css/
+      - main.css
+    - js/
+      - main.js
+    - src/
+      - MKS mosca.png
+      - yuuta-logo.png
+      - computadora.jpg
+      - iconos/
+        - linkedin.png
+        - github.png
+        - twitter.png
+        - youtube.png
+  - views/
+    - header.php
+    - footer.php
+    - home.php
+    - temas.php
+    - recursos.php
+    - practicas.php
+  - controllers/
+    - HomeController.php
+    - TemasController.php
+    - RecursosController.php
+    - PracticasController.php
+  - models/
+    - TemaModel.php
+    - RecursoModel.php
+    - PracticaModel.php
+  - index.php

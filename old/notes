@@ -1,0 +1,711 @@
+https://www.youtube.com/watch?v=YLe5zjruatw
+
+
+0:00
+[Música]
+0:08
+capítulo 4 el color paletas y bibliotecas de color
+0:15
+un factor muy importante en cualquier ilustración o diseño es el color este
+0:21
+tutorial le enseñará todo lo que tiene que saber sobre el color en illustrator
+0:27
+aprenderá a crear un color personalizado con toda precisión
+0:32
+a crear muestras de color para un documento
+0:38
+a utilizar las bibliotecas y cartas de colores profesionales [Música]
+0:45
+a crear sus propias bibliotecas de color [Música]
+0:51
+y a extraer colores desde cualquier imagen [Música]
+0:59
+en illustrator es posible seleccionar colores para las ilustraciones desde una amplia variedad de herramientas paneles
+1:06
+y cuadros de diálogo dependiendo de la necesidad de cada momento se pueden
+1:11
+determinar colores mediante selector de color
+1:16
+panel de muestras bibliotecas de color
+1:23
+y con el cuentagotas
+1:29
+[Música] selector de color mediante esta herramienta se determinan colores
+1:35
+personalizados tanto para el relleno como para el trazo de un objeto cuando
+1:40
+seleccionamos un objeto en el selector de color nos mostrará el color de relleno y el color del trazo de dicho
+1:46
+objeto [Música] si se hace doble clic en cualquier
+1:52
+cuadro del selector de color se abrirá la ventana del selector de color
+1:57
+en esta ventana nos aparecen entre otros campos de color
+2:02
+espectro de color rectángulo de color nuevo rectángulo de
+2:09
+color original varios modelos de color
+2:15
+editar un color con el selector para editar el color de relleno se hace doble
+2:20
+clic en el icono relleno para editar el color del trazo se hace
+2:27
+doble clic en el icono trazo [Música]
+2:36
+en el cuadro espectro de color determinaremos el espectro de color que buscamos desplazando los triángulos
+2:43
+determinamos si nuestro color personalizado estará dentro del espectro del rojo naranja amarillo verde cian
+2:50
+azul violeta [Música] ahora en el campo de color se puede
+2:56
+ajustar el color para que sea más claro u oscuro y más o menos saturado
+3:02
+desplazando el círculo hacia arriba el color se hará más claro mientras que si lo bajamos el color se hará más oscuro
+3:10
+desplazando el círculo hacia la derecha aumenta la saturación mientras que a la
+3:15
+izquierda se va perdiendo saturación hasta que finalmente se vuelve gris el cuadro rectángulo de color nuevo nos
+3:23
+da una muestra de cómo quedará el nuevo color debajo de este se encuentra el cuadro rectángulo de color original que
+3:30
+nos recuerda cómo era el color original y nos permite compararlos
+3:36
+[Música] en el cuadro espectro de color
+3:41
+determinaremos el espectro de color que buscamos desplazando los triángulos
+3:46
+determinamos si nuestro color personalizado estará dentro del espectro del rojo naranja amarillo verde cian
+3:53
+azul violeta ahora en el campo de color se puede
+4:00
+ajustar el color para que sea más claro u oscuro y más o menos saturado
+4:05
+desplazando el círculo hacia arriba el color se hará más claro mientras que si lo bajamos el color se hará más oscuro
+4:13
+desplazando al círculo hacia la derecha aumenta la saturación mientras que a la
+4:18
+izquierda se va perdiendo saturación hasta que finalmente se vuelve gris el cuadro rectángulo de color nuevo nos
+4:26
+da una muestra de cómo quedará el nuevo color debajo de este se encuentra el cuadro rectángulo de color original que
+4:33
+nos recuerda cómo era el color original y nos permite compararlos [Música]
+4:40
+para añadirlo a las muestras despliegue el panel muestras
+4:46
+si no está disponible vaya al menú ventana muestras
+4:52
+ahora seleccione y arrastre el color junto a las otras muestras este color estará disponible siempre que
+5:00
+abramos este documento pero no estará disponible para el resto de documentos
+5:08
+[Música] visualización de colores compatibles con web
+5:13
+los colores compatibles con web son los colores utilizados por todos los navegadores web de cualquier plataforma
+5:19
+para ver solo colores compatibles con la web marque la casilla elija solo colores
+5:24
+web ahora el selector de color tendrá este aspecto
+5:30
+[Música] el resto de campos de selector de color
+5:36
+son los valores numéricos de los distintos modelos de color puede que nos den unos colores
+5:42
+determinados por ejemplo los de su logotipo u otros colores corporativos
+5:48
+[Música] lo más normal es que no los den en uno
+5:55
+de estos tres modelos rgb de make up o hexadecimal
+6:01
+estos valores los introduciremos dentro de los campos correspondientes
+6:07
+[Música]
+6:17
+sobre la información técnica en este capítulo sobre el color se
+6:24
+abordarán varios apartados con información técnica que siguiendo forma parte del aprendizaje de illustrator nos
+6:31
+aporta una información relevante sobre el color dentro del ámbito de las artes gráficas y de la web también se incluirá
+6:38
+dentro del apartado de información técnica ciertos tecnicismos de cómo
+6:43
+trata el color el programa información técnica modelos de color
+6:51
+veamos brevemente los distintos modelos de color rgb los colores ser egb son los
+6:58
+colores luz y son los utilizados por los monitores de los ordenadores y cualquier dispositivo electrónico por lo tanto
+7:05
+sería el modelo adecuado para internet y las páginas web [Música]
+7:10
+rgb son las siglas en inglés de los tres colores que las forman red green blue y
+7:18
+en español son rojo verde y azul este modelo no es nada intuitivo para
+7:24
+crear un color personalizado por ejemplo si quisiéramos conseguir un color amarillo puro tendremos que mezclar los
+7:31
+colores rojos y verdes como ves es un modelo poco recomendado para crear un
+7:36
+color hsv
+7:42
+este modelo maneja los valores tono saturación y luminosidad
+7:48
+en la h determinamos el tono o matiz como rojo naranja verde etcétera
+7:55
+en la s determinamos la saturación o cromatismo es la fuerza o pureza del
+8:01
+color un color saturado es un color puro y cuanto más le bajemos la saturación se
+8:08
+va rebajando el color hasta acercarlo hacia el color gris de hecho una foto en
+8:13
+escala de grises es una imagen a la que se le ha quitado toda la saturación
+8:19
+en la vez se determinan la luminosidad o brillo a mayor luminosidad se acerca al
+8:25
+blanco a menor luminosidad se acerca al negro [Música]
+8:33
+gm y acá estos son los famosos colores de la 4 y chrome y de las imprentas cian
+8:41
+magenta yellow y kate como los que puedes ver en la pantalla
+8:46
+estos colores son algo más intuitivo ya que funcionan como cuando mezclamos las témperas por ejemplo si quisiéramos
+8:53
+crear un color verde mezclaremos el celeste y el amarillo para un naranja
+8:58
+mezclar y amos el rojo y el amarillo etcétera con el color negro le
+9:04
+añadiríamos más o menos oscuridad [Música]
+9:09
+colores compatibles con la web los colores compatibles con la web está
+9:16
+decimal son aquellos compatibles con todos los navegadores web de cualquier plataforma consta de seis dígitos
+9:22
+precedidos por una almohadilla cada par de dígitos se corresponden con un valor
+9:28
+rgb panel de color
+9:36
+despliegue el panel color si no está disponible vaya ventana a color
+9:42
+[Música]
+9:49
+si no se visualizan las barras con los deslizadores debe ir al menú del panel y
+9:54
+pulsar sobre mostrar opciones [Música]
+10:02
+los componentes del panel de color son color de relleno
+10:09
+color de trazo [Música] menú del panel
+10:17
+[Música] color ninguno negro y blanco
+10:22
+[Música] cuadro de espectro de color
+10:28
+reguladores de color deslizantes y numéricos
+10:34
+el panel color puede crear colores mediante los distintos modelos de color crear colores mediante el modelo hsv
+10:44
+seleccione el objeto al que quiere aplicarle el color ponga en primer plano el icono de color de relleno o color de
+10:51
+trazo dependiendo de donde quiera aplicar el color despliegue el menú del panel y
+10:58
+seleccione el modelo de color que prefiero usar elija el modelo hsv ya que
+11:04
+le será familiar por haberlo visto en el apartado anterior
+11:09
+se puede estirar el panel para que se vea mejor el cuadro de espectro en el cuadro de espectro de color
+11:16
+determine el matiz en el apartado s se determina la
+11:22
+saturación si mueve el deslizador hacia la derecha aumenta la saturación mientras que hacia
+11:29
+la izquierda se va perdiendo el saturación hasta que finalmente se vuelve gris
+11:34
+en el b se determina el brillo y luminosidad se mueve el deslizador hacia la derecha
+11:40
+el color se hará más claro y si lo mueve hacia la izquierda el color se hará más oscuro
+11:47
+los ajustes se han realizado con los deslizadores pero también se podrían hacer
+11:53
+numéricamente [Música]
+11:58
+añadir el color a la muestra el color que acabamos de crear se puede
+12:04
+añadir a las muestras de esta forma estará siempre disponible dentro del documento para usarlo cuando sea
+12:11
+necesario para añadir este color a las muestras en el menú del panel seleccione muestra
+12:17
+nueva se le da un nombre
+12:24
+se elige un modelo de color y puse en ok
+12:31
+[Música] crear colores mediante el modelo c m y
+12:39
+acá ahora veremos cómo crear colores con el modelo c m y acá
+12:45
+[Música] si lo desea seleccione un objeto al que quiere aplicarle el color y ponga en
+12:51
+primer plano el icono del color de relleno o color de trazo dependiendo de donde quiera aplicar el color
+12:58
+elija el modelo c m y k al igual que hicimos con el modelo
+13:04
+anterior puede elegir un color aproximado en el cuadro de espectro con los deslizadores se modifican los
+13:11
+valores de cian magenta y hielo que se estimen necesarios
+13:16
+se le añade tinta negra en el caso de que se desee oscurecer el color
+13:21
+los cambios se pueden hacer mediante los deslizadores o numéricamente se puede
+13:27
+añadir este color a las muestras del documento desde el menú del panel seleccione crear nueva muestra
+13:34
+dele un nombre y observe como el color se añadió al panel muestras
+13:40
+[Música]
+13:45
+crear colores mediante el modelo rgb si lo desea seleccione un objeto al que
+13:52
+quiere aplicarle el color y ponga en primer plano el icono de color de relleno o color de trazo dependiendo de
+13:59
+donde quieran aplicar el color elija el modelo rgb
+14:05
+al igual que los modelos anteriores puede elegir un color aproximado en el cuadro de espectro con los deslizadores
+14:12
+se modifican los colores de rojo verde y azul que se estimen necesarios ya advertimos que el modelo es poco
+14:18
+intuitivo pero illustrator nos ayuda mucho ya que en los deslizadores nos muestra cómo cambiará el color si lo
+14:25
+deslizamos hacia un lado u otro [Música]
+14:33
+los cambios se pueden hacer mediante los deslizadores o numéricamente se puede
+14:38
+añadir este color a las muestras del documento desde el menú del panel seleccione crear nueva muestra
+14:48
+dele un nombre y observe como el color se añadió al panel muestras
+14:54
+[Música]
+14:59
+no está para crear un color es indistinto el modo de color que utilice puede crearlo con el que más cómodo se
+15:06
+sienta que el color resultante sea un color rgb ce make a etcétera depende de
+15:12
+otros factores tales como la forma de guardar el color el perfil del documento etcétera
+15:19
+todo se irá viendo durante el capítulo [Música]
+15:27
+crear colores mediante el modelo rgb compatible con la web para crear estos colores dentro del menú
+15:34
+de panel elija rgb compatible con la web este modelo crea los colores igual que
+15:41
+el modelo anterior la única diferencia es que el número de colores compatibles con la web es más reducido
+15:48
+[Música] los cambios se pueden hacer mediante los
+15:53
+deslizadores numéricamente o colocando el valor es a decimal
+16:00
+el color resultante se puede añadir a las muestras del documento
+16:07
+[Música] crear colores mediante el modelo escala
+16:14
+de grises los colores dentro de este modelo son grados de grises que van de blanco al
+16:19
+negro su funcionamiento es tan fácil como mover el deslizador a derecha e
+16:24
+izquierda como siempre los cambios se pueden hacer mediante los deslizadores o numéricamente y se puede añadir este
+16:32
+color a las muestras del documento panel muestras
+16:38
+[Música] si no está disponible el panel muestras
+16:45
+ábralo mediante el menú ventana muestras
+16:50
+las muestras son un conjunto de colores con su nombre y asociadas a un documento
+16:55
+[Música] desde el panel muestras también se puede acceder a diversas paletas que contiene
+17:01
+illustrator y a paletas profesionales como las de pantone hocol toner hampa
+17:06
+etcétera [Música]
+17:14
+en el panel se puede ver entre otros mostrar lista de miniaturas
+17:21
+mostrar vista de lista menú biblioteca de muestras abrir el
+17:28
+panel de temas de color añadir los grupos de colores y muestras seleccionados a mi biblioteca actual
+17:35
+menú mostrar tipos de muestras opciones de muestra
+17:41
+nuevo grupo de colores nuestra nueva eliminar muestra
+17:47
+[Música] las muestras se pueden ver en forma de miniaturas pequeñas medianas y grandes
+17:54
+[Música] o en forma de tira o de lista pequeña y
+18:00
+grande [Música]
+18:06
+cuando se opta por la vista de lista junto a cada muestra hay iconos que nos
+18:12
+informan sobre el tipo de color que es de momento no es necesario saber su significado pero al final del capítulo
+18:18
+se enseñará sobre todo los tipos de colores y el significado de estos iconos informativos
+18:25
+[Música] al crear un documento en blanco este
+18:31
+viene acompañado de un grupo de muestras estándar a este grupo se le pueden añadir o eliminar cuantas muestras
+18:37
+deseemos [Música] eliminar muestras para eliminar una
+18:44
+muestra se selecciona y se pulsa sobre el icono de papelera
+18:53
+para eliminar varios colores y grupo de colores se seleccionan como si de objetos se tratara pulsando la tecla
+19:00
+control se puede ir seleccionando varias muestras no contiguas y pulsamos sobre
+19:06
+el icono de papelera para eliminarlas usando la tecla mayúscula se pueden
+19:11
+seleccionar una tira de colores contiguos y pulsamos sobre el icono de papelera para eliminarlas
+19:20
+[Música] crear y añadir muestras se pueden añadir
+19:27
+los colores del documento al panel muestras desde el menú del panel pulsamos sobre añadir colores usados
+19:37
+añade todos los colores del documento [Música]
+19:53
+añadir colores seleccionados [Música]
+19:58
+añade los colores de los objetos seleccionados
+20:04
+también se puede crear un color desde el panel muestras vamos al menú del panel y seleccionamos
+20:11
+muestra nueva y creamos el color [Música]
+20:31
+[Música]
+20:43
+modificar una muestra si quisiera modificar alguna muestra
+20:48
+basta con darle un doble clic por ejemplo se le puede dar nombre variar el
+20:54
+color hacerlo global etc [Música]
+21:03
+modificar el tipo de varias muestras a la vez seleccione las muestras a las que
+21:08
+quiere cambiar el color en el menú del panel seleccione opciones de muestras
+21:16
+modifique todos los atributos que desee y pulse ok [Música]
+21:32
+creación de una biblioteca de muestras crear y guardar una biblioteca puede ser
+21:38
+muy práctico por ejemplo cuando tenemos unos colores corporativos que se repiten a menudo en diversos trabajos tales como
+21:45
+colores del logotipo y colores representativos de la empresa en el panel muestras deje solo los colores que
+21:51
+se van a incluir en la biblioteca en el menú del panel seleccione guardar
+21:57
+biblioteca de muestras en formato h o en formato
+22:02
+[Música] le damos un nombre y la guardamos
+22:07
+[Música] cuando se quiere abrir esa biblioteca pulsamos el icono bibliotecas y luego
+22:14
+sobre definido por el usuario [Música]
+22:24
+mover muestras de una biblioteca al panel muestras seleccione las muestras que desea añadir
+22:30
+y a continuación seleccione añadir a muestras en el menú del panel de la biblioteca
+22:35
+[Música]
+22:42
+en algunas bibliotecas como la pantone se agregan automáticamente [Música]
+22:53
+colores fuera de gama y colores no compatibles con la web cuando estamos creando un color puede que aparezca uno
+23:00
+de estos dos iconos junto al color esto nos indica que el color en cuestión tendrá algún problema como los que
+23:06
+veremos a continuación este icono indica colores fuera de gama
+23:12
+algunos colores de los modelos de color rgb y hsv no se pueden imprimir
+23:18
+correctamente puesto que no tienen equivalentes en el modelo c make a cuando un color está fuera de gama
+23:24
+aparecerá un triángulo de aviso en el panel de control o en el selector de color
+23:30
+si el trabajo va dirigido a la imprenta haga clic en el triángulo para cambiar al equivalente escénica más cercano que
+23:37
+se muestra en un pequeño cuadro junto al triángulo
+23:44
+este icono indica colores no compatibles con la web si un color no es compatible
+23:49
+con los 216 colores web aparecerá un cubo de aviso en el panel de control en
+23:55
+el selector de color o en el cuadro de diálogo editar colores si el trabajo va
+24:00
+dirigido a la web haga clic en el cubo para cambiar al color compatible con web más cercano que se muestra en un pequeño
+24:06
+cuadro junto al cubo a cuentagotas con el cuentagotas se pueden copiar
+24:13
+colores de ilustraciones vectoriales o de imágenes de mapas de bits también se pueden copiar los atributos
+24:20
+de texto los atributos de carácter y párrafo entre objetos de texto
+24:28
+[Música] copiar los atributos de otro objeto seleccione un objeto seleccione la
+24:35
+herramienta cuentagotas y haga clic sobre el objeto de que quiere copiar sus atributos [Música]
+24:43
+copiar el color solo al relleno o al trazo se puede hacer que la herramienta cuentagotas aplique el color solo al
+24:50
+relleno o al trazo de un objeto copiar el color solo al relleno [Música]
+24:57
+si lo que quiere es que el color se aplique solo al relleno en el selector de color ponga en primer plano el color
+25:04
+de relleno seleccione la herramienta cuentagotas y pulse sobre el color al
+25:10
+mismo tiempo que mantiene pulsada la tecla mayúsculas copiar el color solo al trazo se actúa
+25:17
+igual que en el caso anterior pero ahora se pone en primer plano el cuadro de trazo
+25:22
+[Música]
+25:28
+truco para no tener que estar cambiando constantemente entre el cuentagotas y el
+25:33
+selector puede pulsar la tecla control y el cuentagotas cambiará al selector
+25:38
+mientras permanezca la tecla pulsada al soltar la tecla volverá a estar
+25:43
+seleccionado en cuentagotas [Música]
+25:53
+[Música]
+26:02
+copiar atributo de texto se pueden copiar los atributos de texto tanto de
+26:07
+carácter como del párrafo [Música]
+26:16
+copiar colores de una imagen de mapa de bits se pueden extraer colores de una imagen
+26:22
+de mapa de bits de forma similar a los que empleamos con los vectores seleccione un objeto con herramienta
+26:29
+cuentagotas haga clic sobre cualquier parte de la imagen el color siempre se
+26:34
+aplicará al relleno si quiere que el color se aplique al trazo en el selector de color ponga en
+26:41
+primer plano el color del trazo seleccione la herramienta cuentagotas y
+26:47
+pulse sobre el color al mismo tiempo que mantiene pulsada la tecla mayúsculas
+26:52
+[Música] utilidades de color una de las decisiones más importantes a
+26:58
+la hora de afrontar un diseño es la elección del color un diseño debe de tener unos colores
+27:04
+clave y su número estará entre los 3 y los 5 colores dentro de estos colores
+27:10
+clave pueden caber ilustraciones aunque éstas sean muy policromadas a continuación veremos una utilidad de
+27:17
+color que nos ayudará mucho a determinar los colores clave ya que estos combinen perfectamente entre ellos
+27:24
+panel temas de color el panel temas de color sólo tendrán
+27:29
+integrado y a pleno funcionamiento los que disponen de una versión de illustrator posterior al 25 de abril del
+27:35
+2017 si no es su caso puede dirigirse a la versión online de este panel y ver su
+27:41
+manejo en el tutorial colores armónicos con adobe cooler [Música]
+27:47
+el panel temas de color le ayuda a combinar los colores de forma armoniosa y atractiva en sus proyectos de diseño
+27:55
+como la función de panel temas de color es la de crear combinación de colores siguiendo reglas cromáticas vamos a
+28:03
+describir muy brevemente cuáles son las reglas cromáticas usadas por esta utilidad y en qué consiste cada una de
+28:09
+ellas las reglas disponibles son análogo
+28:15
+monocromático triada complementario compuesto tonos y personalizado
+28:24
+análogos utiliza colores adyacentes en la rueda cromática los colores análogos
+28:31
+se suelen fusionar bien entre sí y son armónicos y agradables de unidad
+28:36
+monocromáticos utiliza el mismo color pero con diferentes valores de
+28:42
+saturación y brillo los colores monocromáticos se combinan bien entre sí
+28:47
+y generan un efecto calmante bueno para diseños corporativos
+28:52
+triada utiliza tres colores equidistantes de la rueda cromática se
+28:57
+utiliza esta regla de color dispondrá de dos colores con el mismo tono pero con valores de saturación y brillo distintos
+29:04
+de los valores del primer punto de la rueda de colores los colores críticos suelen contrastar
+29:10
+entre sí aunque no tanto como los colores complementarios pero siguen siendo armónicos si se combinan
+29:17
+complementarios un color complementario es el color opuesto y es de alto
+29:23
+contraste destacando mucho al ponerlo uno sobre el otro el panel temas de color suma dos colores
+29:30
+con el mismo tono que el color de base y sus complementarios los colores complementarios proporcionan un alto
+29:37
+contraste y tienden a llamar mucho la atención cuando se combinan entre sí compuestos utiliza una combinación de
+29:45
+colores complementarios y análogos si utiliza esta regla de color dispondrá de
+29:50
+dos colores con el mismo tono adyacentes análogos al color de base y dos colores opuestos al color de base
+29:57
+complementarios pero adyacentes entre sí los temas de colores compuestos tienen
+30:02
+el mismo contraste visual fuerte de los temas de colores complementarios pero la intensidad es menor
+30:08
+tonos utiliza cinco colores que comparten el mismo tono pero que tienen distintos valores de brillo
+30:16
+a medida permite seleccionar manualmente los colores en la rueda cromática de la
+30:21
+paleta sin necesidad de cumplir ninguna regla
+30:26
+[Música] uso del panel temas de color
+30:32
+este panel se abre pulsando sobre su icono que se encuentra en la parte inferior del panel muestras
+30:38
+las partes del panel son color base reglas de color rueda de
+30:45
+colores ajustar el regulador campo para introducir un nombre para el tema de
+30:51
+color crear un tema de color haga clic en la ficha crear del panel
+30:57
+temas de adobe color haga clic en el icono regla cromática y
+31:03
+seleccione una regla ahora necesita un color base el color base se encuentra en
+31:09
+la parte central y está identificado por un pequeño triángulo blanco
+31:14
+puede que ya tenga pensado el color base en que se basará su diseño seleccione el
+31:20
+objeto con ese color seleccione lo en el panel muestras o póngalo manualmente
+31:26
+presione el icono establecer color seleccionado a partir de color activo
+31:32
+el color pasa del panel muestras al panel temas de color como color base
+31:38
+verá que automáticamente se generó una combinación de colores según la regla
+31:43
+que se eligió anteriormente en la parte inferior se encuentra un
+31:48
+deslizador que puede darle mayor o menor luminosidad a la combinación
+31:55
+o bien a solo uno de sus colores [Música]
+32:04
+esta combinación se puede añadir a las muestras del documento para usarla siempre que queramos para ello pulse el
+32:11
+icono añadir a muestras [Música]
+32:20
+puede generar más combinaciones basadas en otras reglas cromáticas y añadirlas a las muestras del documento
+32:27
+[Música] guardar un tema de color introduzca un
+32:35
+nombre para el nuevo tema de color en la parte inferior del panel haga clic en guardar seleccione la biblioteca de
+32:42
+creative clon en la que desea guardar el tema
+32:47
+haga clic en guardar acceder al tema es posible acceder
+32:53
+fácilmente desde illustrator a los temas guardados en las bibliotecas creative cloud desde estas aplicaciones de
+33:00
+escritorio o desde aplicaciones móviles cómo capturé cc o usando el sitio web de
+33:06
+adobe color [Música]
+33:12
+también se puede guardar dentro de las bibliotecas de color
+33:19
+para acceder a los temas de color creados por la comunidad presione la pestaña explorar
+33:25
+[Música]
+33:36
+puede ordenar los temas por más valorados más recientes mis temas
+33:42
+publicados más populares más utilizados y al azar
+33:52
+a [Música]
+33:58
+también se pueden acotar estableciendo un marco de tiempo para los resultados el panel solo lista temas subidos en
+34:05
+este lapso de tiempo puede hacer una búsqueda para ver qué
+34:10
+temas publicó la comunidad con ese nombre o con esas etiquetas de palabras clave
+34:16
+[Música]
+34:22
+si uno o varios de estos temas le interesan puede añadirlo a las muestras pulse en el icono en forma de tres
+34:28
+puntos para desplegar las opciones y elija añadir a muestras
+34:37
+puede ver sus temas guardados en la pestaña sistemas
+34:45
+crear temas desde imágenes vilma esto sólo se puede hacer en la versión
+34:51
+online de este panel llamado adobe cooler cooler toma los colores más relevantes
+34:57
+de la imagen y que a su vez combinan bien entre sí si quiere ver el manejo de cooler puede
+35:04
+ir al tutorial combinar colores en diseño con adobe cooler [Música]
+35:12
+panel guía de color actualmente en illustrator existen dos paneles que nos ayudan con las
+35:18
+combinaciones de colores los dos paneles son de hecho una duplicidad y terminarán fusionándose en una sola herramienta
+35:24
+estos paneles son temas de color que acabamos de ver y guía de color si ya
+35:30
+comprendió el funcionamiento del panel temas de color seguro que no tiene dificultad en manejar el panel guía de
+35:36
+color así que sólo mencionaremos algunos extras que nos ofrece el panel guía de
+35:42
+color elija el color base cualquier color que
+35:49
+se seleccione en el panel muestras pasa a ser el color base [Música]
+35:57
+también se puede determinar el color base seleccionando un objeto el color
+36:02
+pasará al cuadro del color base del panel de guía de color se debe pulsar sobre el cuadro para confirmar que este
+36:09
+es el color base [Música] elija una regla cromática
+36:18
+[Música] los colores de la regla cromática se
+36:24
+alinean a la derecha del color base y también verticalmente en la zona central del campo variaciones de color este
+36:31
+pequeño triángulo blanco nos recuerda que estos son los colores principales a
+36:37
+derecha e izquierda de estos colores se encuentran las variaciones de color [Música]
+36:47
+por defecto muestra los matices gradaciones que añaden negro a las
+36:52
+variaciones de la izquierda y blanco a las de la derecha [Música]
+36:58
+en el menú del panel se puede cambiar la variación a mostrar cálido frío que
+37:04
+añade rojo a las variaciones de la izquierda y azul a las de la derecha [Música]
+37:13
+mostrar intenso apagado reduce la saturación hacia el gris en las variaciones de la izquierda y la aumenta
+37:20
+en las de la derecha número y rango de las variaciones de
+37:26
+color seleccione opciones de guía de color en el menú del panel y especifique
+37:32
+el número de variaciones que aparecerán a ambos lados por ejemplo seleccione 6 si desea ver 6
+37:40
+gradaciones más oscuras y 6 más claras de cada color
+37:46
+los colores se pueden tratar mediante la rueda cromática tal como se hizo con la herramienta anterior
+37:54
+[Música]
+38:05
+el grupo de colores de la regla se puede añadir a las muestras del documento
+38:14
+aquí damos por finalizada la edición sobre el color pero el tema del color en illustrator es muy extenso y se podría
+38:21
+seguir hablando sobre él les recomendamos que cuando tenga bien asimilado este capítulo vea el tutorial
+38:27
+tipos de color en illustrator y en las artes gráficas en dicho tutorial se
+38:32
+estudiarán las tintas planas la cuatricromía el color global
+38:38
+y la utilidad pantón estudio si le gustó el vídeo no sería de mucha
+38:43
+ayuda que le diera al me gusta también puede suscribirse al canal y pulsar
+38:49
+sobre el icono de la campanilla para que le avisen cada vez que salga algún nuevo vídeo
+38:56
+hasta el próximo vídeo tutorial
