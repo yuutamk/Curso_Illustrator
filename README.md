@@ -2,6 +2,7 @@
 
 ¡Hola! Si estás aquí, es porque te llama la atención el diseño gráfico y quieres empezar a crear piezas visuales que impacten. Ya sea que sueñes con diseñar logos, carteles, ilustraciones o incluso animaciones, este curso es para ti. Vamos a explorar juntos los fundamentos, las herramientas y las técnicas que te abrirán las puertas al diseño profesional, con un enfoque especial en **Adobe Illustrator**, mi herramienta favorita y una de las más poderosas del mercado.
 
+![](https://www.revista-ballesol.com/wp-content/uploads/2024/05/autism-day-with-colorful-portrait.webp)
 ---
 
 ### 🚀 ¿Por qué empezar con Illustrator?
@@ -10,11 +11,14 @@ Illustrator es el estándar en la industria para crear gráficos vectoriales. A 
 
 Si recién empiezas, no te abrumes. Illustrator puede parecer complejo al principio, pero una vez que entiendes su lógica, se convierte en tu mejor aliado.
 
+![](https://i.ytimg.com/vi/-QOzfJSngCU/maxresdefault.jpg)
 ---
 
 ### 🎨 Los Fundamentos del Diseño que Debes Conocer Antes de Abrir Illustrator
 
 Antes de abrir el programa, es clave entender los principios básicos del diseño. Estos son como las reglas de gramática para un escritor: sin ellos, tu mensaje puede perderse.
+
+![](https://images7.memedroid.com/images/UPLOADED474/6657506abe24e.jpeg)
 
 #### 1. **Composición y Diagramación**
 - ¿Qué es? Es cómo organizas los elementos en tu diseño: textos, imágenes, formas, etc.
@@ -31,6 +35,9 @@ Antes de abrir el programa, es clave entender los principios básicos del diseñ
 - ¿Por qué importa? La tipografía puede hacer que un texto sea fácil o difícil de leer, y también puede reforzar el mensaje (ejemplo: una fuente elegante para una boda, una fuente moderna para un evento tecnológico).
 - En Illustrator: Aprenderás a manipular texto, ajustar interlineados, espaciado y convertir texto en formas para crear logotipos únicos.
 
+
+![](https://i.pinimg.com/736x/54/de/84/54de84ee684e3e09315e22542cacb723.jpg)
+
 ---
 
 ### 🛠️ Herramientas: Illustrator y Alternativas Gratuitas
@@ -46,8 +53,11 @@ Antes de abrir el programa, es clave entender los principios básicos del diseñ
 #### Herramientas Virtuales Gratuitas
 Si no tienes acceso a Illustrator aún, no te preocupes. Hay opciones como:
 - **Inkscape:** Similar a Illustrator, pero gratuito y de código abierto.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1200px-Inkscape_Logo.svg.png" width="150px">
 - **Canva:** Ideal para diseños rápidos y con plantillas predefinidas.
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77d7429c23569c5165fdc429d10c2644/canva.png" width="150px">
 - **Figma:** Muy usado para diseño de interfaces, pero también para vectoriales.
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70px">
 
 ---
 
