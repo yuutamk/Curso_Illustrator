@@ -2,7 +2,8 @@
 
 ¡Hola! Si estás aquí, es porque te llama la atención el diseño gráfico y quieres empezar a crear piezas visuales que impacten. Ya sea que sueñes con diseñar logos, carteles, ilustraciones o incluso animaciones, este curso es para ti. Vamos a explorar juntos los fundamentos, las herramientas y las técnicas que te abrirán las puertas al diseño profesional, con un enfoque especial en **Adobe Illustrator**, mi herramienta favorita y una de las más poderosas del mercado.
 
-![](https://www.revista-ballesol.com/wp-content/uploads/2024/05/autism-day-with-colorful-portrait.webp)
+![](./src/images/01_autism-day-with-colorful-portrait.webp)
+
 ---
 
 ### 🚀 ¿Por qué empezar con Illustrator?
@@ -11,14 +12,14 @@ Illustrator es el estándar en la industria para crear gráficos vectoriales. A 
 
 Si recién empiezas, no te abrumes. Illustrator puede parecer complejo al principio, pero una vez que entiendes su lógica, se convierte en tu mejor aliado.
 
-![](https://i.ytimg.com/vi/-QOzfJSngCU/maxresdefault.jpg)
+![](./src/images/02_maxresdefault.jpg)
 ---
 
 ### 🎨 Los Fundamentos del Diseño que Debes Conocer Antes de Abrir Illustrator
 
 Antes de abrir el programa, es clave entender los principios básicos del diseño. Estos son como las reglas de gramática para un escritor: sin ellos, tu mensaje puede perderse.
 
-![](https://images7.memedroid.com/images/UPLOADED474/6657506abe24e.jpeg)
+![](./src/images/03_6657506abe24e.jpeg)
 
 #### 1. **Composición y Diagramación**
 - ¿Qué es? Es cómo organizas los elementos en tu diseño: textos, imágenes, formas, etc.
@@ -36,7 +37,7 @@ Antes de abrir el programa, es clave entender los principios básicos del diseñ
 - En Illustrator: Aprenderás a manipular texto, ajustar interlineados, espaciado y convertir texto en formas para crear logotipos únicos.
 
 
-![](https://i.pinimg.com/736x/54/de/84/54de84ee684e3e09315e22542cacb723.jpg)
+![](./src/images/04_54de84ee684e3e09315e22542cacb723.jpg)
 
 ---
 
@@ -53,17 +54,21 @@ Antes de abrir el programa, es clave entender los principios básicos del diseñ
 #### Herramientas Virtuales Gratuitas
 Si no tienes acceso a Illustrator aún, no te preocupes. Hay opciones como:
 - **Inkscape:** Similar a Illustrator, pero gratuito y de código abierto.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1200px-Inkscape_Logo.svg.png" width="150px">
+<img src="./src/icons/01_Inkscape_Logo.svg.png" width="150px">
+
 - **Canva:** Ideal para diseños rápidos y con plantillas predefinidas.
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77d7429c23569c5165fdc429d10c2644/canva.png" width="150px">
+<img src="./src/icons/02_canva.webp" width="150px">
+
 - **Figma:** Muy usado para diseño de interfaces, pero también para vectoriales.
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70px">
+<img src="./src/icons/03_Figma-logo.svg" width="70px">
 
 ---
 
 ### 🌟 3D, Animación e Inteligencia Artificial en el Diseño
 
 El diseño ya no es solo estático. Illustrator se ha modernizado y ahora integra funciones de 3D y colabora con otras herramientas para animación e IA.
+
+![](./src/images/06_como-crear-objetos-3d-en-illustrator-1.webp)
 
 #### Diseño 3D en Illustrator
 - Puedes convertir formas planas en objetos 3D con efectos como *Extrusión y Bisel*.
@@ -128,6 +133,8 @@ Si tuviera que resumir el diseño en una sola idea, usaría la poderosa frase de
 
 #### **El Diseño como Solucionador de Problemas**
 
+![](./src/images/07_descarga.webp)
+
 A diferencia de lo que muchos creen al inicio, el diseño no se trata principalmente de hacer las cosas "lindas". Su corazón late por la **funcionalidad**. Piensa en estos ejemplos:
 
 *   Una **señal de salida de emergencia** no se diseña para que sea decorativa, sino para que sea entendida instantáneamente, incluso en medio del pánico. Su color, icono y tipografía tienen la función de salvar vidas.
@@ -152,6 +159,8 @@ Imagínatelo así:
 
 **Un ejemplo práctico: La Felicidad**
 
+![](./src/images/08_pexels-photo-11403744.jpeg)
+
 *   **Como artista:** Pintarías un cuadro abstracto lleno de colores vibrantes que, para ti, expresan felicidad. Un espectador podría ver tristeza en ello, y está bien. El arte es así.
 *   **Como diseñador:** Crearías el flujo de una app de meditación que, a través de una tipografía calmada, iconos intuitivos y sonidos relajantes, **genera de manera confiable una sensación de tranquilidad y bienestar en el usuario**. El resultado debe ser consistente, no abierto a múltiples interpretaciones.
 
@@ -166,10 +175,19 @@ Como dijo el diseñador Vico Magistretti: *"El mejor piropo que se me puede deci
 Cuando piensas en "diseño", tu mente puede ir primero a un logo o un póster. Pero el campo es inmenso y mejora casi every aspecto de nuestra vida:
 
 *   **Diseño Arquitectónico:** Crea espacios donde vivimos y trabajamos, buscando eficiencia, seguridad y bienestar.
+![](./src/images/10_architecture-structure-house-window-roof-building-664502-pxhere.com.jpg)
+
 *   **Diseño Editorial:** Organiza texto e imagen en libros y revistas para que la lectura sea una experiencia placentera y clara.
+![](./src/images/11_d26df137155731.5739cc92994cf.webp)
+
 *   **Diseño Publicitario:** Construye mensajes visuales que captan la atención y comunican una idea comercial de forma memorable.
+![](./src/images/12_advertising-brand-product-font-illustration-text-154663-pxhere.com.jpg)
+
 *   **Diseño de Producto:** Da forma a tu silla, tu teléfono o tu auto, equilibrando ergonomía, materiales y estética.
+![](./src/images/13_product-font-design-graphic-design-Material-property-technology-1610057-pxhere.com.jpg)   
+
 *   **Diseño de Experiencia (UX):** Se enfoca en cómo te sientes al interactuar con un sitio web o una app, haciendo que el proceso sea intuitivo y satisfactorio.
+![](./src/images/14_online-shopping-website-P6NA9XP.jpg)
 
 Cada una de estas ramas comparte la misma esencia: **resolver una problemática humana específica a través de una solución creativa y funcional.**
 
@@ -197,6 +215,8 @@ El diseño es, en esencia, un oficio de servicio. Es una disciplina que requiere
 
 ## **Diseño Universal y Atemporal**
 
+![](./src/images/15_La-noche-estrellada-de-Vincent-Van-Gogh-1889.webp)
+
 Desde que somos niños, estamos diseñando. ¿Recuerdas cuando dibujabas un carro con cuatro ruedas y un rectángulo, y todos entendían que era un carro? Ese es el poder del **diseño universal**: la capacidad de comunicar una idea compleja con la máxima simplicidad, trascendiendo barreras idiomáticas, culturales y educativas.
 
 #### **¿Qué es Realmente el Diseño Universal?**
@@ -212,6 +232,8 @@ El diseño universal es la creación de productos, entornos y, sobre todo, comun
 Como diseñadores, nuestro trabajo no es decorar, sino **codificar información en formas visuales que el cerebro pueda decodificar instantáneamente.**
 
 #### **La Búsqueda de la Atemporalidad: Cuando el Diseño Trasciende las Modas**
+
+![](./src/images/16_pexels-rajeshverma-13057815.jpg)
 
 Junto a la universalidad, está el concepto de **diseño atemporal**. Este es un diseño que no se ve esclavizado por las tendencias pasajeras. Su esencia es tan sólida que permanece relevante y comprensible a lo largo de los años, incluso décadas.
 
@@ -247,11 +269,13 @@ Ahora, ¿cómo llevamos esta teoría a la práctica en nuestro espacio de trabaj
 
 ### **La Conexión con la Inteligencia Artificial y el Futuro**
 
+![](./src/images/17_DeWatermark.ai_1762150901765.jpeg)
+
 Hoy, estos principios son más relevantes que nunca. Las interfaces de voz, los asistentes de IA y la realidad aumentada dependen de un lenguaje visual universal e inmediato. Cuando le pides a un asistente de IA que "muestre el clima", este representa "sol" con un icono simple y universal, no con una pintura impresionista de un paisaje.
 
 El diseño universal es el puente que permite a los humanos y a las máquinas entenderse visualmente.
 
-### **Conclusión: Tu Rol como Diseñador Universal**
+### **Tu Rol como Diseñador Universal**
 
 Como creadores, nuestra responsabilidad va más allá de satisfacer un gusto personal. Somos traductores de información en experiencia visual. Al dominar el diseño universal y atemporal, dejas de ser solo alguien que "sabe usar Illustrator" y te conviertes en un estratega de la comunicación, capaz de crear trabajos que no solo son hermosos, sino que son **útil, inclusivo y duradero.**
 
@@ -265,9 +289,13 @@ La próxima vez que estés frente a una mesa de trabajo en Illustrator, pregúnt
 
 ## **El Arte de Generar Ideas**
 
+![](./src/images/18_DeWatermark.ai_1762151068096.jpeg)
+
 La creatividad no es un don mágico que solo poseen algunos iluminados. Es un **proceso**, una disciplina. Y como todo proceso, tiene métodos, herramientas y puntos de partida. Aquí es donde dejamos de esperar a que "llegue la musa" y empezamos a construir ideas con nuestras propias manos.
 
 #### **1. La Lección de Da Vinci: Bocetar es Pensar**
+
+![](./src/images/20_0036519457.webp)
 
 El boceto del helicóptero de Leonardo Da Vinci es el ejemplo perfecto. En su época, era poco más que un sueño en papel. Hoy, es la base de una tecnología esencial. Esto nos enseña dos cosas fundamentales:
 
@@ -275,6 +303,8 @@ El boceto del helicóptero de Leonardo Da Vinci es el ejemplo perfecto. En su é
 *   **El boceto es el lenguaje nativo del diseñador.** Es la forma más rápida y directa de materializar un pensamiento. En Illustrator, esto se traduce en usar la **Herramienta Pincel** o el **Lápiz** para hacer lluvias de ideas visuales sin el pressure de la perfección. ¡Deja que tu mano sea libre!
 
 #### **2. Tus Fuentes de Inspiración Digital: Más Allá de Google**
+
+![](./src/images/21_refresh-update-app-icon-social-net-1448015-pxhere.com.jpg)
 
 Para generar ideas nuevas, necesitas alimentar tu cerebro con ideas existentes. Pero no se trata de copiar, sino de **conectar puntos**.
 
@@ -290,14 +320,21 @@ Para generar ideas nuevas, necesitas alimentar tu cerebro con ideas existentes. 
 
 #### **3. Técnicas Probadas para Desbloquear tu Creatividad**
 
+![](./src/images/22_hacks-liberar-tu-creatividad-si-estas-bloqueado.webp)
+
 Cuando te sientas atascado, estas metodologías pueden ser tu salvavidas:
 
 *   **Brainstorming (Lluvia de Ideas):** La clave es **no juzgar**. En una pizarra o un documento, escribe o dibuja TODO lo que se te ocurra, aunque sea absurdo. La idea "mala" puede ser el puente a la idea brillante.
+
+
+
 *   **Mapas Mentales:** Toma tu concepto central (ej: "Deporte") y colócalo en el medio de la página. Luego, dibuja ramas con palabras asociadas ("velocidad", "sudor", "victoria", "comunidad"). De cada una, saca más ramas. Verás cómo un concepto simple se expande en direcciones inesperadas.
 *   **Analogías y Metáforas:** ¿Tu cliente es un banco y necesitas una idea fresca? Piensa: "Si este banco fuera un animal, ¿cuál sería?" (Un águila: visión; una hormiga: trabajo en equipo). Esta abstracción ayuda a encontrar conceptos visuales poderosos.
 *   **Restricciones Creativas:** Paradoxalmente, los límites liberan. Impón reglas: "Diseñaré este logo usando solo formas geométricas básicas" o "Tengo 30 minutos para generar 10 ideas". Esto obliga a tu cerebro a encontrar soluciones ingeniosas.
 
 #### **4. El "Board de Diseño": Tu Mapa de Ruta Visual**
+
+![](./src/images/23_unnamed.png)
 
 Un "Moodboard" o board de diseño no es un collage bonito. Es la **herramienta estratégica** más importante antes de abrir Illustrator. Sirve para:
 
@@ -317,6 +354,8 @@ La inspiración más pura no está en una pantalla. Está en:
 
 ### **Conviértete en un Cazador de Ideas**
 
+![](./src/images/24_472570907_10170563185680249_2965549670323356110_n.jpg)
+
 Generar ideas no es un evento, es un estilo de vida. Es mantener la curiosidad siempre encendida, tener la humildad de inspirarte en los demás y la disciplina de sentarte a bocetar, incluso cuando no apetece.
 
 La próxima vez que te enfrentes a un proyecto en Illustrator, no corras a abrir el programa de inmediato. Tómate tu tiempo. Investiga, boceta en papel, crea tu board de diseño. Verás cómo cuando finalmente te sientes frente a la pantalla, tendrás un camino claro por delante y las ideas fluirán con mucha más facilidad y propósito.
@@ -327,6 +366,8 @@ La próxima vez que te enfrentes a un proyecto en Illustrator, no corras a abrir
 ---
 
 ## **De la Idea al Proyecto: Cómo Definir y Desarrollar tu Primer Diseño Profesional**
+
+![](./src/images/25_1500x844-portafolio-proyectos-1024x576.jpg)
 
 Llegó el momento. Has aprendido los fundamentos, has explorado la inspiración y ahora toca aplicar todo ese conocimiento en un **proyecto final**. Este no es un ejercicio más; es el puente entre ser un aprendiz y convertirte en un creador con criterio. Como diseñador que ha guiado decenas de proyectos, te diré que esta etapa es donde realmente descubres qué significa ser diseñador.
 
@@ -402,6 +443,8 @@ Un error común de principiantes: querer abarcar demasiado. Es mejor hacer **poc
 ---
 
 ### **Preparándote para la Composición: Los Cimientos Visuales**
+
+![](./src/images/26_gettyimages-1358986169-612x612.jpg)
 
 Antes de pasar al módulo de composición, necesitas tener claro estos elementos:
 
