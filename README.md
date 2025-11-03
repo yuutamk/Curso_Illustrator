@@ -491,3 +491,106 @@ Mientras tanto, tu misión es:
 **Un último consejo de veterano:** Guarda todas tus versiones. Crea una carpeta "Proceso" donde guardes cada iteración. Ver la evolución de tu proyecto te dará perspectiva y confianza.
 
 ¿Listo para dar vida a tu primera gran pieza de diseño? El viaje comienza con una decisión: ¿sobre qué vas a crear? ¡El tema perfecto te está esperando!
+
+---
+
+## **Composición Visual**
+
+![](./src/images/27_Kandisnky-composition-8.webp)
+
+La composición visual representa uno de los pilares más fundamentales y fascinantes del diseño. Como diseñador con años de experiencia, puedo afirmar que comprender la composición fue lo que transformó mi trabajo de "agradable" a "profesionalmente efectivo". Esta disciplina va mucho más allá de simplemente "acomodar elementos bonitos" - se trata de **dirigir intencionalmente la mirada y la experiencia del espectador**.
+
+#### **¿Qué Es Realmente la Composición Visual?**
+
+La composición es la capacidad de organizar elementos visuales para crear una narrativa coherente y atractiva. Cuando observamos una imagen bien compuesta, nuestro ojo detecta inmediatamente el orden y la armonía, incluso sin entender conscientemente por qué. Es un lenguaje universal que habla directamente a nuestra percepción más básica.
+
+---
+
+### **Los Tres Pilares de una Composición Sólida**
+
+#### **1. El Equilibrio**
+
+![](./src/images/28_equilibrio.jpg)
+
+El equilibrio no significa simetría perfecta. Se trata del **balance visual entre todos los elementos** que conforman una imagen.
+
+- **Equilibrio Simétrico:** Los elementos se distribuyen uniformemente alrededor de un eje central, creando una sensación de orden, formalidad y tranquilidad. Ideal para comunicaciones que requieren seriedad y estabilidad.
+
+- **Equilibrio Asimétrico:** Los elementos se distribuyen de manera no uniforme pero mantienen el balance a través del contrapeso visual. Un elemento pequeño pero de color intenso puede equilibrar perfectamente un elemento grande pero neutro.
+
+La clave está en entender que nuestro cerebro busca naturalmente el equilibrio, basándose en nuestras experiencias con la gravedad y el mundo físico.
+
+#### **2. La Alineación**
+
+![](./src/images/29_ITDO-alineacion.jpg)
+
+La alineación es lo que separa un diseño amateur de uno profesional. Es la diferencia entre "colocado aproximadamente" y "intencionalmente posicionado".
+
+La alineación coherente genera:
+- **Claridad visual inmediata**
+- **Sensación de profesionalismo** 
+- **Guía natural para el ojo del espectador**
+
+Ya sea vertical, horizontal o centrada, la alineación establece límites claros y crea una estructura invisible que organiza todo el espacio visual.
+
+#### **3. La Disposición**
+
+![](./src/images/30_planos-de-colores_01.jpg)
+
+¿Dónde colocamos el elemento más importante? ¿Cómo guiamos el ojo a través del diseño? La disposición responde estas preguntas cruciales.
+
+**La Ley de la Mirada** es un principio fundamental: cuando un sujeto mira hacia un lado, debemos dejar más espacio en esa dirección. Esto permite que el espectador siga naturalmente la línea de visión y complete mentalmente la narrativa.
+
+---
+
+### **Lecciones de los Maestros**
+
+- **El Poder Narrativo de "Guernica"**
+![](./src/images/31_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvcGFibG8tcGljYXNzby1ndWVybmljYS5qcGciLCJyZXNpemUsMjAwMCwyMDAwIl19.WCMjR_CsADK8rA4wG6fOwSXeazLc7SKTrAzC5Y-TefM.jpg)
+En la obra maestra de Picasso, aparentemente caótica, cada figura está estratégicamente colocada para crear un equilibrio tenso y cargado de significado. Las miradas de los personajes y la disposición de los elementos generan un flujo visual específico que intensifica el impacto emocional del mensaje.
+
+
+- **Mondrian y el Lenguaje de la Geometría**
+![](./src/images/32_curiosidades_sobre_la_vida_y_la_obra_de_Piet_Mondrian_portada_6f1571f0-63d3-4970-a887-86c5e9a32312.webp)
+Las composiciones de Piet Mondrian son masterclasses en alineación y equilibrio a través de formas geométricas puras. Demuestran cómo los colores y las formas pueden distribuirse meticulosamente para crear una armonía visual perfecta.
+
+- **Warhol y la Magia de la Repetición**
+![](./src/images/33_Andy-warhol-marylin.webp)
+En su serie de Marilyn Monroe, Andy Warhol utiliza la repetición con variaciones sutiles para crear ritmo visual. Esta técnica muestra cómo patrones repetitivos, cuando están bien compuestos, pueden generar un impacto visual memorable y coherente.
+
+---
+
+### **Jerarquía Visual**
+
+![](./src/images/34_todoaporta-761ff8e6-6119-4b2c-a8d9-27eedc7010b0.webp)
+
+La jerarquía visual es el elemento que determina qué ve primero el espectador, qué ve después y qué queda como fondo. Se establece mediante:
+
+- **Diferencias de tamaño** (lo grande atrae primero)
+- **Contraste de color** (los colores vibrantes destacan)
+- **Posición en la composición** (ciertas áreas son naturalmente más prominentes)
+
+En un diseño efectivo, la jerarquía debe ser inmediatamente clara, guiando al espectador a través del mensaje de manera intuitiva.
+
+---
+
+### **Consejos para Mejorar Tus Composiciones**
+
+1. **Planifica antes de ejecutar:** Boceta rápidamente varias opciones de composición antes de comprometerte con una.
+
+2. **Busca el equilibrio, no la simetría:** Juega con el peso visual de los elementos según su tamaño, color y complejidad.
+
+3. **Usa el espacio negativo sabiamente:** Las áreas "vacías" son esenciales para dar respiro y destacar los elementos importantes.
+
+4. **Sigue las líneas naturales:** Observa cómo los elementos crean líneas implícitas que pueden guiar la mirada.
+
+5. **Experimenta con puntos focales inusuales:** A veces, colocar el elemento principal fuera del centro crea dinamismo e interés.
+
+### **La Composición como Lenguaje**
+
+Dominar la composición es como aprender un nuevo idioma visual. Una vez internalizas las reglas fundamentales, adquieres la libertad para romperlas creativamente cuando la situación lo requiera.
+
+**La composición efectiva no se nota** cuando está bien ejecutada - simplemente sentimos que la imagen "funciona", que es agradable de observar y fácil de entender. Ese es el verdadero signo de un diseño profesional: la invisibilidad de su técnica al servicio de la claridad de su mensaje.
+
+---
+
