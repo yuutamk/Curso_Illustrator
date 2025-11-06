@@ -1,0 +1,56 @@
+- crear nuevo archivo de illustrator con 1080x1920
+- con la herramienta de rectangulo dibuja sobre la mesa de trabajo formando el contorno de la cancha
+- en propiedades quita el relleno de la forma y en trazado establecerlo en color negro en 5 puntos de trazado
+- mantenpresionado sobre la herramienta de rectangulo para mostrar la herramienta de elipse
+- selecciona la herramienta de elipse para dibujar de la misma manera un circulo en la mesa de trabajo
+- con la herramienta de seleccion puedes seleccionar ambos objetos
+- una vez seleccionado en propiedades dale en alinear con la mesa de trabajo
+- alinea los objetos al centro tanto vertical como horizontalmente
+- selecciona la herramienta de pluma
+- traza un punto en uno de los lados del rectangulo y unelo al otro lado del rectangulo trazando asi el centro de la cancha formando una linea horizontal que divide la cancha vista verticalmente la divide en 2 partes, inferior y superior, el trazado debe pasar tambien por el centro del circulo
+- con la herramienta de seleccion seleccionamos el circulo central
+- clonamos el circulo usando la tecla alt y desplazando el objeto se crea una copia mientras lo vas moviendo al soltarlo se crea la copia, o bien con el circulo seleccionado puedes usar ctrl + c para copiar y ctrl + v para pegar dando asi el mismo resultado
+- selecciona el circulo clonado y colocalo en la parte inferior
+- con la herramienta de seleccion directa selecciona uno de los nodos inferiores del circulo clonado
+- una vez seleccionado solo ese nodo con la tecla de supr eliminamos ese nodo quedando asi un medio circulo formando una cupula
+- con la herramienta de rectangulo dibujamos otro rectangulo mas pequeño para adaptarlo debajo del medio circulo para formar la parte del area de la cancha
+- clonamos ahora el medio circulo con la herramienta de seleccion
+- una vez clonado escalamos el medio circulo usando la tecla de shift y arrastrando desde el nodo inferior para crear un escalado homogeneo
+- una vez escalado quedaran partes del medio circulo que sobresalen de la cancha debemos eliminarlas
+- para eliminar el exedente usamos la herramienta de pluma para colocar nodos en el trazado del medio circulo justo en la interseccion del medio circulo y el borde de la cancha, hacemos lo mismo para ambos lados
+- una vez colocados los nodos con la herramienta de seleccion directa seleccionamos el nodo que queda fuera de la cancha y con la tecla de supr lo eliminamos para que asi quede al borde de la cancha, hacemos lo mismo para el otro lado
+- con la herramienta de seleccion seleccionamos los objetos que forman nuestra area de la cancha inferior puedes usar tambien la tecla de shift para seleccionar varios elementos a la vez
+- una vez seleccionados vamos a clonarlos para hacer la parte superior de la cancha y crear asi su espejo
+- una vez clonado desde los nodos de transformacion vamos a rotar todos los objetos de manera vertical quedando asi una replica de espejo formando la cancha completa
+-  una vez creada la cancha vamos a abrir el proyecto que dice vectores, para esto descargalo desde la carpeta del github, es otro archivo de illustrator
+- ahi encontraremos la paleta de colores a usar, el logo de la NBA en vectores y balones de basquetball igual en vectores para facilitar nuestro proyecto
+- una vez abierto el proyecto con la herramienta de seleccion selecciona los  vectores que estan en la mesa de trabajo y con ctrl + c para copiar
+- abrimos nuestro proyecto donde estamos trabajando con la cancha y le damos ctrl + v para pegar los vectores
+- con la herramienta de seleccion los movemos fuera de la mesa de trabajo
+- selecciona ahora uno de los objetos de nuestra cancha como el rectangulo del area y con la herramienta de cuenta gotas le damos color seleccionando el color de nuestra paleta de colores
+- esto le dara el color a la forma seleccionada
+- repite el mismo paso para darle color a todos los demas objetos de la cancha usando la paleta de colores
+- una vez teniendo los colores a los elementos selecciona el controno de la cancha, el circulo central y el trazado del centro que usamos para dividir la cancha
+- en la propiedades de trazado ponemos el color blanco
+- abrimos un nuevo documento en photoshop con las mismas dimensiones que en illustrator
+- seleccionamos todos nuestros objetos en nuestra mesa de trabajo en illustrator y copiamos con ctrl + c
+- en photoshop le damos ctrl + v y le dejamos la opcion pegar como objeto inteligente, desmarcamos la opcion de añadir a la biblioteca
+- seleccionamos la capa que se nos ha creado, le damos clic derecho y le damos la opcion convertir a objeto inteligente
+- con la capa seleccionada presionamos ctrl + t para transformar
+- usando la tecla ctrl presionamos sobre los nodos de transformacion para transformar la perspectiva de nuestro objeto
+- una vez posisionado le damos enter
+- con la herramienta de cuentagotas seleccionamos uno de los colores de la coposision
+- y llenamos con ese color la capa de fondo, puedes usar el comando de alt + supr para colocar el color seleccionado directamente en toda la capa de fondo
+- reguresamos a nuestro proyecto de illustrator y seleccionamos la composision del logo de la NBA lo copiamos y lo pasamos a photoshop, de igual manera lo pegmos como objeto inteligente
+- lo acomodamos donde consideremos que queda mejor
+- hacemos lo mismo con el balon de basquetball
+- creamos una nueva capa entre el balon y la cancha para generar una sombra al balon
+- seleccionamos la nueva capa y con la herrmienta de seleccion elipse seleccionamos la parte que queremos dar sombra
+- con la herramienta de bote de pintura o pincel rellena la seleccion del color oscuro de nuestra paleta de colores para generar contraste
+- son la tecla de shift seleccionamos todas las capas de photoshop
+- vamos al menu capa y le damos la opcion de combinar visible manteniendo la tecla de alt para que asi se cree la capa conservando las capas originales de nuestra composision
+- ocultamos las capas por debajo
+- seleccionamos la capa combinada
+- vamos al menu filtro > ruido > añadir ruido
+- aplicamos un ruido de 8pts
+- resultado final
