@@ -8,9 +8,10 @@ En esta práctica, aprenderás a diseñar una cancha de baloncesto profesional u
 
 1. Abre Adobe Illustrator y crea un nuevo documento
 2. Establece las dimensiones: **1080 x 1920 píxeles**
-3. Nombra el archivo como "Cancha_Baloncesto"
+![](../src/cancha/01_nuevo_archivo.png)
+1. Nombra el archivo como "Cancha_Baloncesto"
 
-![Nuevo documento Illustrator](../src/cancha/01_nuevo_documento.png)
+
 
 ---
 
@@ -22,26 +23,30 @@ En esta práctica, aprenderás a diseñar una cancha de baloncesto profesional u
    - Quita el relleno (establécelo en "Ninguno")
    - Establece el color del trazado en negro
    - Define el grosor del trazado en **5 puntos**
+![](../src/cancha/02_herramienta_rectangulo_sin_relleno_borde_negro.png)
 
-![Contorno cancha](../src/cancha/02_contorno_cancha.png)
+
 
 ---
 
 #### **Paso 3: Dibujar el Círculo Central**
 
 1. Mantén presionada la **Herramienta Rectángulo** y selecciona **Herramienta Elipse**
-2. Dibuja un círculo en el centro de la cancha
-3. Selecciona ambos objetos (rectángulo y círculo)
-4. En el panel **Alinear**, selecciona "Alinear a la mesa de trabajo"
-5. Alinea ambos objetos al centro vertical y horizontalmente
+  ![](../src/cancha/04_seleccionar_herramienta_elipse.png)
+1. Dibuja un círculo en el centro de la cancha
+![Círculo central](../src/cancha/05_dibuja_elipse.png)
+1. Selecciona ambos objetos (rectángulo y círculo)
+2. En el panel **Alinear**, selecciona "Alinear a la mesa de trabajo"
+3. Alinea ambos objetos al centro vertical y horizontalmente
+![](../src/cancha/06_alineacion_al_centro.png)
 
-![Círculo central](../src/cancha/03_circulo_central.png)
 
 ---
 
 #### **Paso 4: Trazar la Línea Central**
 
 1. Selecciona la **Herramienta Pluma**
+![](../src/cancha/07_trazo_recta_pluma.png)
 2. Haz clic en un punto del lado izquierdo del rectángulo
 3. Haz clic en el punto correspondiente del lado derecho, creando una línea horizontal que pase por el centro del círculo
 4. Establece el grosor del trazado en **2 puntos**
