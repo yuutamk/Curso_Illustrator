@@ -33,6 +33,7 @@ Una identidad de marca es como el outfit de una persona: no es solo la camisa, s
 - **Logotipo:** Es el nombre “Bogotá” escrito con una letra especial, que refleje nuestra personalidad.
 - **Elementos gráficos complementarios:** Patrones, íconos, texturas y colores que usaremos en posters, sitios web, uniformes o publicidades. Imaginen un patrón inspirado en los cerros o en los tejidos indígenas, usado con moderación y sentido.
 
+![](./diferencias.webp)
 ---
 
 ### **El brief: la hoja de ruta que nos guía**
@@ -47,6 +48,8 @@ En el brief inicial, estamos definiendo:
   - **Colores:** Usaremos los colores de la ciudad, pero con una paleta renovada y flexible.
   - **Tipografía:** Buscamos una fuente legible, moderna y que funcione tanto en pantalla como en impresos.
   - **Aplicaciones prioritarias:** Señalización urbana, redes sociales, sitio web, material turístico y merch oficial (sí, ¡habrá merch!).
+
+![](./01_brief.webp)
 
 ---
 
